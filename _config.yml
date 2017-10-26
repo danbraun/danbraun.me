@@ -3,8 +3,6 @@ language:               ""
 title:                  "A Blog"
 description:            "Personal Website"
 google-verification:    ""
-name: Daniel Braun
-markdown: kramdown
 
 # Handling Reading
 include:
