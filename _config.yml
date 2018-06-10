@@ -3,6 +3,7 @@ language:               ""
 title:                  "A Blog"
 description:            "Personal Website"
 google-verification:    ""
+url: "https://danbraun.github.io/f6-jekyll/"
 
 # Handling Reading
 include:
