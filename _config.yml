@@ -11,7 +11,7 @@ include:
   - "_pages"
 
 exclude:
-  - "/assets/"
+#  - "/assets/"
   - "bower.json"
   - "composer.json"
   - "composer.lock"
@@ -37,8 +37,8 @@ exclude:
 incremental:      true
 
 # Serving
-# url:            ""
-# baseurl:        "" # does not include hostname
+url:            "https://danbraun.github.io/f6-jekyll/"
+baseurl:        "" # does not include hostname
 
 # Outputting
 permalink:        "/blog/:year/:title/"

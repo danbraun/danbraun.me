@@ -21,7 +21,7 @@
                 <li class="menu-text">Site Title</li>
                 {% for item in site.data.nav-main %}
                 <li>
-                <a href="{{ item.url }}">{{ item.link }}</a>
+                <a href="{{ site.baseurl }}{{ item.url }}">{{ item.link }}</a>
                 <ul class="menu vertical nested">
                     <li><a href="#">One</a></li>
                     <li><a href="#">Two</a></li>
