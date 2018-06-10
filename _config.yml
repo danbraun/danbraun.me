@@ -37,7 +37,7 @@ incremental:      true
 
 # Serving
 # url:            ""
-baseurl:        "/f6-jekyll" # does not include hostname
+baseurl:        "" # does not include hostname
 
 # Outputting
 permalink:        "/blog/:year/:title/"
