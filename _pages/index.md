@@ -1,7 +1,8 @@
 ---
+title: Daniel Braun
 permalink: /
 layout: index
-title: Homepage
+bgcolor: 2E134B
 ---
 
-Welcome to your new Jekyll site.
+You've reached the personal website of Daniel Braun. Content appropriate to share will be deposited here.

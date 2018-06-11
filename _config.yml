@@ -1,8 +1,9 @@
 # Site settings
 language:               ""
-title:                  "A Blog"
+title:                  "Brauntrutta"
 description:            "Personal Website"
 google-verification:    ""
+default_hero_image:     "v1528641635/dan-bass-fly-ski-chicken-outside.jpg"
 
 # Handling Reading
 include:
@@ -36,7 +37,7 @@ exclude:
 incremental:      true
 
 # Serving
-url:            "https://danbraun.github.io/f6-jekyll/"
+#url:            "https://danbraun.github.io/f6-jekyll/"
 baseurl:        "" # does not include hostname
 
 # Outputting

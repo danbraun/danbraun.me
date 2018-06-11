@@ -1,9 +1,43 @@
 {% include head.html %}
 
-<header>
-    <div class="grid-container">
+{% if page.header_image != nil %}
+{% assign image = page.header_image %}
+{% else %}
+{% assign image = site.default_hero_image %}
+{% endif %}
 
-        {% include components/nav-menu.html %}
+<header class="grid-container full">
+    <div class="grid-x">
+        <div class="medium-6 cell medium-order-2">
+
+            {% if page.bgcolor != nil %}
+                {% assign color = page.bgcolor %}
+            {% else %}
+                {% assign color = '000' %}
+            {% endif %}
+
+            <div style="background-color: #{{ color }}" class="menu-and-heading">
+                {% include components/nav-menu.html %}
+
+                <h1 class="heading">{{ page.title }}</h1>
+                <p class="heading-date meta">{{ page.date | date: '%B %d, %Y' g }}</p>
+
+                {% if page.sub_title != nil %}
+
+                <p>{{ page.sub_title }} </p>
+                <a class="button" href="#jump">continue reading</a>
+                <div class="heading-caption">
+                    {{ page.header_caption }}</div>
+
+                {% endif %}
+
+            </div>
+        </div>
+
+        <div class="medium-6 cell medium-order-1">
+            <img class="heading-image" src="http://res.cloudinary.com/brauntrutta/image/upload/w_800,c_fill/{{ image }}" alt="">
+        </div>
     </div>
+
 
 </header>

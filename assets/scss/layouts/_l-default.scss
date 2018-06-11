@@ -1,14 +1,20 @@
 // --------------------------------------------------
 // Layout default
 // --------------------------------------------------
-
+p, a {
+  font-family: $base-body-font;
+}
 header {
+  text-align: center;
   //@include grid-row;
-  background-color: $light-gray;
-  background-image: url('../img/luca-zanon-26595.jpg');
-  background-size: cover;
-  background-position: center;
-  height: 500px;
+  //background-color: $light-gray;
+  //background-image: url('../img/luca-zanon-26595.jpg');
+  //background-size: cover;
+  //background-position: center;
+  //height: 350px;
+  img {
+    //margin-top: 1rem;
+  }
 
   nav {
     @include grid-column;
@@ -17,9 +23,86 @@ header {
 
 footer {
   @include grid-row;
-  background-color: $light-gray;
+  text-align: center;
+  padding: 2rem;
 
   nav {
     @include grid-column;
+
   }
+  nav ul {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+}
+.button {
+  background-color: $white;
+}
+.menu-and-heading a.button:hover {
+  background-color: $white;
+  color: $black;
+}
+
+.content {
+  padding: 2rem;
+}
+.top-bar {
+  color: $white;
+  justify-content: center;
+  //height: 100%;
+}
+.heading, .heading-date, .heading-caption {
+  color: $white;
+}
+.menu-and-heading {
+  color: $white;
+  height:50vh;
+  //background-color: rgb(51, 21, 79);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  @include breakpoint(medium) {
+    height:100vh;
+  }
+}
+.menu-and-heading a {
+  color: $black;
+  text-transform: uppercase;
+}
+.menu-and-heading a:hover {
+  color: $white;
+}
+.heading-caption {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  text-align: left;
+  align-self: baseline;
+  font-size: .8em;
+  padding: 1rem;
+}
+.heading-image {
+  height:50vh;
+  width: 100vw;
+  object-fit: cover;
+  @include breakpoint(medium) {
+    height:100vh;
+    width: 50vw;
+  }
+}
+.title-bar, .top-bar, .top-bar ul {
+  background: none;
+}
+.top-bar a {
+  color: $white;
+}
+.site-title a {
+  color: $white;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.title-bar-title {
+  text-transform: uppercase;
 }
