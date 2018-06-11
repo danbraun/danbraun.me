@@ -37,7 +37,7 @@ exclude:
 incremental:      true
 
 # Serving
-#url:            "https://danbraun.github.io/f6-jekyll/"
+url:            "https://danbraun.github.io/f6-jekyll/"
 baseurl:        "" # does not include hostname
 
 # Outputting
