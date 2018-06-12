@@ -6,7 +6,7 @@ categories: jekyll update
 date: 2018-06-11 00:00:00 +0000
 header_image: v1528769416/IMG_20180505_125754.jpg
 header_caption: "Midway Asian Foods"
-bgcolor: 
+bgcolor: 932F2B
 ---
 
 You'll find this post in your `_posts` directory.
