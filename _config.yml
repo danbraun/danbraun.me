@@ -37,8 +37,8 @@ exclude:
 incremental:      true
 
 # Serving
-url:            "https://danbraun.github.io/f6-jekyll/"
-baseurl:        "https://danbraun.github.io/f6-jekyll/" # does not include hostname
+url:            "https://danbraun.github.io/f6-jekyll"
+baseurl:        "" # does not include hostname
 
 # Outputting
 permalink:        "/blog/:year/:title/"
