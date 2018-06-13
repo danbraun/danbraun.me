@@ -5,7 +5,7 @@ layout: index
 date: 2018-06-11 00:00:00 +0000
 header_image: v1528856184/IMG_1006.jpg
 header_caption: ""
-bgcolor: 2E134B
+bgcolor: 4D5420
 
 ---
 
