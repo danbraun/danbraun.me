@@ -1,6 +1,6 @@
 # Site settings
 language:               ""
-title:                  "Brauntrutta"
+title:                  "Dan Braun"
 description:            "Personal Website"
 google-verification:    ""
 default_hero_image:     "v1528641635/dan-bass-fly-ski-chicken-outside.jpg"
@@ -43,7 +43,7 @@ baseurl:        "" # does not include hostname
 # Outputting
 permalink:        "/blog/:year/:title/"
 paginate_path:    "/blog/page:num"
-paginate:         5
+paginate:         1
 
 compress_html:
   ignore:
