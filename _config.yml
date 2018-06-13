@@ -32,7 +32,7 @@ exclude:
 
 # Plugins
 # Add plugins in the Gemfile
-git
+
 # Conversion
 incremental:      true
 
