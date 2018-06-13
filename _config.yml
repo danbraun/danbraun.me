@@ -32,12 +32,12 @@ exclude:
 
 # Plugins
 # Add plugins in the Gemfile
-
+git
 # Conversion
 incremental:      true
 
 # Serving
-url:            "https://danbraun.github.io/f6-jekyll"
+url:            "https://danbraun.github.io/danbraun.me"
 baseurl:        "" # does not include hostname
 
 # Outputting
