@@ -43,7 +43,7 @@ baseurl:        "" # does not include hostname
 # Outputting
 permalink:        "/blog/:year/:title/"
 paginate_path:    "/blog/page:num"
-paginate:         1
+paginate:         5
 
 compress_html:
   ignore:
