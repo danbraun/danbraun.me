@@ -25,7 +25,7 @@ layout: default
             <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
             <p class="post-meta">{{ post.date | date: '%d.%m.%Y' }}</p>
 
-            <a href="{{ post.url }}">Read more...</a>
+            <a href="{{ site.url }}{{ post.url }}">Read more...</a>
 
             {% unless forloop.last %}<hr>{% endunless %}
 
