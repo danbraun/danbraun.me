@@ -1,12 +1,11 @@
-
----  
+---
 layout: post  
 title: Kale Salad  
 categories: recipe  
 date: 2018-06-13 00:00:00 +0000  
 header_image: v1528941982/Kale%20Salad/IMG_20180613_195739.jpg  
 bgcolor: 35461F  
----  
+---
 Kale salad recipe  
   
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942079/Kale%20Salad/IMG_20180613_192758.jpg)  
@@ -24,7 +23,7 @@ Kale salad recipe
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/v1529543829/Kale%20Salad/MVIMG_20180614_073013.jpg)
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/v1529521584/Kale%20Salad/IMG_20180619_213145.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI1NjI5NDcsNTAyNjE2NzYyLC05Nz
-g3NDgyOTEsMTQ5MjU1ODY0MSwxNTcxNDE5NzM4LC0xMDIxMDg2
-ODIyLC02MjY5MzAxMTNdfQ==
+eyJoaXN0b3J5IjpbLTU4MzAxODE2MSwtMTk0MjU2Mjk0Nyw1MD
+I2MTY3NjIsLTk3ODc0ODI5MSwxNDkyNTU4NjQxLDE1NzE0MTk3
+MzgsLTEwMjEwODY4MjIsLTYyNjkzMDExM119
 -->
