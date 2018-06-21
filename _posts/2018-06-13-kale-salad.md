@@ -27,11 +27,14 @@ The garlic, ginger, oil and everything else mixes easily in a small mason jar.
 Mix using your hands. Like a man. You need to smoosh around the leaves to tenderize them a bit.
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521584/Kale%20Salad/IMG_20180619_212143.jpg)
 
-I toast my sesame seeds on a stainless steel pan.
+I toast my sesame seeds on a stainless steel pan and get them golden and fragrant.
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_brightness,w_1200/v1529543829/Kale%20Salad/MVIMG_20180614_073013.jpg)
 
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521584/Kale%20Salad/IMG_20180619_213145.jpg)
+
+Ingredients:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDUxOTAxNiwtMTA2MjY4NTc1MiwyMD
+eyJoaXN0b3J5IjpbLTk4MDk5MjQyNiwtMTA2MjY4NTc1MiwyMD
 A1NDg5NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
 -->
