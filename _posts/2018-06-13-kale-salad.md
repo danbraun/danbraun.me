@@ -12,8 +12,8 @@ bgcolor: 35461F
 >![garden kale and chickens](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942079/Kale%20Salad/IMG_20180613_192758.jpg)
 >Lacinato in the foreground with 2 rows of curly kale behind them. The chickens enjoy a patch of dead lawn in the background.
  
-![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250,z_1.6/v1528941917/Kale%20Salad/IMG_20180613_192814.jpg)  
-
+>![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250,z_1.6/v1528941917/Kale%20Salad/IMG_20180613_192814.jpg)  
+>Red R kale
 
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250/v1528941809/Kale%20Salad/IMG_20180613_193215.jpg)  
   
@@ -27,6 +27,6 @@ bgcolor: 35461F
 
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521584/Kale%20Salad/IMG_20180619_213145.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNjkxMTI2LC0xMDYyNjg1NzUyLDIwMD
+eyJoaXN0b3J5IjpbMzcwOTA3ODg0LC0xMDYyNjg1NzUyLDIwMD
 U0ODk2NzIsMTgyNjkwMTY5MSwxNzcwNjA1MDQ0XX0=
 -->
