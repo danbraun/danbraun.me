@@ -7,7 +7,7 @@ header_image: v1528941982/Kale%20Salad/IMG_20180613_195739.jpg
 bgcolor: 35461F  
 ---  
 ## Kale salad recipe  
- I'm growing a few variet
+ I'm growing a few varieties of kale but mostly curly and lacinato.
 ![garden kale and chickens](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942079/Kale%20Salad/IMG_20180613_192758.jpg)  
   
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250,z_1.6/v1528941917/Kale%20Salad/IMG_20180613_192814.jpg)  
@@ -24,6 +24,6 @@ bgcolor: 35461F
 
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521584/Kale%20Salad/IMG_20180619_213145.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MzIzNTUxLDE4MjY5MDE2OTEsMTc3MD
-YwNTA0NF19
+eyJoaXN0b3J5IjpbMjAwNTQ4OTY3MiwxODI2OTAxNjkxLDE3Nz
+A2MDUwNDRdfQ==
 -->
