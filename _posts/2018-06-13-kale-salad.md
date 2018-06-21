@@ -41,9 +41,12 @@ Ingredients:
  - garlic 1 clove
  - salt 1 tsp
  - honey 1 tbsp or stevia 1tsp
+ - soy sauce 1/8 cup
+ - rice vinegar 2 tsp
+ - lemon juice fr
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDExMTE3MiwtMTA2MjY4NTc1MiwyMD
-A1NDg5NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
+eyJoaXN0b3J5IjpbLTExODMxNDE5MDQsLTEwNjI2ODU3NTIsMj
+AwNTQ4OTY3MiwxODI2OTAxNjkxLDE3NzA2MDUwNDRdfQ==
 -->
