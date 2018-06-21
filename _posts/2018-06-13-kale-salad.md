@@ -18,7 +18,7 @@ bgcolor: 35461F
 >![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250/v1528941809/Kale%20Salad/IMG_20180613_193215.jpg)  
   >Swiss chard on top
   
- Chop up your presumably clean kale like this. You be flicking around less dressing and sesame seeds by eating smaller leaf pieces.
+ Chop up your presumably clean kale like this. You'll be flicking around less dressing and sesame seeds by eating smaller leaf pieces.
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942155/Kale%20Salad/MVIMG_20180613_200123.jpg)  
 
 The garlic, ginger, oil and everything else mixes easily in a small mason jar.
@@ -53,7 +53,7 @@ This salad keeps well in the fridge and improves overnight.
 The dressing ingredients are interchangeable and approximate. Adjust to taste. The main idea is to mix some sweetness with acidy salty-ness on top of the sesame flavor.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0ODM3MDEzLC0xMjE4OTI5NjM5LC0xMD
-YyNjg1NzUyLDIwMDU0ODk2NzIsMTgyNjkwMTY5MSwxNzcwNjA1
-MDQ0XX0=
+eyJoaXN0b3J5IjpbNDcyMzc3ODAyLDkwNDgzNzAxMywtMTIxOD
+kyOTYzOSwtMTA2MjY4NTc1MiwyMDA1NDg5NjcyLDE4MjY5MDE2
+OTEsMTc3MDYwNTA0NF19
 -->
