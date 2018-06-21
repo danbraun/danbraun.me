@@ -50,10 +50,10 @@ Whisk or shake together dressing ingredients and mix in with chopped kale. Mixin
 
 This salad keeps well in the fridge and improves overnight.
 
-The dressing ingredients are interchangeable and approximate. Adjust to taste. The main idea is to mix some sweetness with acidy salty-ness while
+The dressing ingredients are interchangeable and approximate. Adjust to taste. The main idea is to mix some sweetness with acidy salty-ness on
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MjI4MzQ2LC0xMjE4OTI5NjM5LC0xMD
-YyNjg1NzUyLDIwMDU0ODk2NzIsMTgyNjkwMTY5MSwxNzcwNjA1
-MDQ0XX0=
+eyJoaXN0b3J5IjpbLTU2NTU3MzE3OCwtMTIxODkyOTYzOSwtMT
+A2MjY4NTc1MiwyMDA1NDg5NjcyLDE4MjY5MDE2OTEsMTc3MDYw
+NTA0NF19
 -->
