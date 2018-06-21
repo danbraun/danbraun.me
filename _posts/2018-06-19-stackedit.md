@@ -1,25 +1,28 @@
----
-layout: post
-title:  Post from Stackedit
-sub_title: "Here is an example"
-categories: testing stackedit
-date: 2018-06-20 00:00:00 +0000
-header_image: v1528769416/IMG_20180505_125754.jpg
-bgcolor: 932F2B
----
-# Header from Stackedit
 
-More text
-
-More Text
-- Bullet
-- list
-- here
-
-Here is something
--
-I guess a dash is a line
+---  
+layout: post  
+title: Kale Salad  
+categories: recipe  
+date: 2018-06-13 00:00:00 +0000  
+header_image: v1528941982/Kale%20Salad/IMG_20180613_195739.jpg  
+bgcolor: 35461F  
+---  
+Kale salad recipe  
+  
+![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942079/Kale%20Salad/IMG_20180613_192758.jpg)  
+  
+![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250,z_1.6/v1528941917/Kale%20Salad/IMG_20180613_192814.jpg)  
+  
+![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250/v1528941809/Kale%20Salad/IMG_20180613_193215.jpg)  
+  
+![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942155/Kale%20Salad/MVIMG_20180613_200123.jpg)  
+  
+![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250/v1528942087/Kale%20Salad/IMG_20180613_201350.jpg)  
+  
+![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_contrast,w_1250,z_1/v1528941980/Kale%20Salad/IMG_20180613_201621.jpg)  
+  
+![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_contrast,w_1250/v1529002991/MVIMG_20180614_073013.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTQxOTczOCwtMTAyMTA4NjgyMiwtNj
-I2OTMwMTEzXX0=
+eyJoaXN0b3J5IjpbMTc1MTEyOTM5MCwxNTcxNDE5NzM4LC0xMD
+IxMDg2ODIyLC02MjY5MzAxMTNdfQ==
 -->
