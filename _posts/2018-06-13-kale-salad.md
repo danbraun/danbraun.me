@@ -24,13 +24,14 @@ bgcolor: 35461F
 The garlic, ginger, oil and everything else mixes easily in a small mason jar.
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521583/Kale%20Salad/IMG_20180619_211547.jpg)
 
-Mix using your hands. Like a man.
+Mix using your hands. Like a man. You need to smoosh around the leaves to tenderize them a bit.
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521584/Kale%20Salad/IMG_20180619_212143.jpg)
 
+I toast my sesame seeds on a stainless steel pan.
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_brightness,w_1200/v1529543829/Kale%20Salad/MVIMG_20180614_073013.jpg)
 
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521584/Kale%20Salad/IMG_20180619_213145.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzQ2OTU4MCwtMTA2MjY4NTc1MiwyMD
+eyJoaXN0b3J5IjpbMTc0NDUxOTAxNiwtMTA2MjY4NTc1MiwyMD
 A1NDg5NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
 -->
