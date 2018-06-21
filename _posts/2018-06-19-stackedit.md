@@ -18,9 +18,9 @@ Kale salad recipe
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942155/Kale%20Salad/MVIMG_20180613_200123.jpg)  
     
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/v1529521583/Kale%20Salad/IMG_20180619_211547.jpg)
-![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_contrast,w_1250/v1529002991/MVIMG_20180614_073013.jpg)
+![image](http://res.cloudinary.com/brauntrutta/image/upload/v1529543829/Kale%20Salad/MVIMG_20180614_073013.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzY0MzIxLDUwMjYxNjc2MiwtOTc4Nz
-Q4MjkxLDE0OTI1NTg2NDEsMTU3MTQxOTczOCwtMTAyMTA4Njgy
-MiwtNjI2OTMwMTEzXX0=
+eyJoaXN0b3J5IjpbLTMxMjcxMTc5OCw1MDI2MTY3NjIsLTk3OD
+c0ODI5MSwxNDkyNTU4NjQxLDE1NzE0MTk3MzgsLTEwMjEwODY4
+MjIsLTYyNjkzMDExM119
 -->
