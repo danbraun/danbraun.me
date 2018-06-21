@@ -46,9 +46,10 @@ Ingredients:
  - lemon juice from 1/2 lemon
  - sesame seeds, toasted 1 tbsp
 
-Whisk or shake together dressing ingredients and mix in with chopped kale. Mixing with your hands works best as the kale needs to be ruffed up a bit to improve their texture. These measurements are approximate and could all be adjusted to taste.
+Whisk or shake together dressing ingredients and mix in with chopped kale. Mixing with your hands works best as the kale needs to be ruffed up a bit to improve their texture. When ready to serve, toast some sesame seeds and sprinkle on top of salad. Crushing the seeds will release more fl
+These measurements are approximate and could all be adjusted to taste.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjY2NzQ2NywtMTA2MjY4NTc1MiwyMD
-A1NDg5NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
+eyJoaXN0b3J5IjpbLTE3NzM0MDc3MDYsLTEwNjI2ODU3NTIsMj
+AwNTQ4OTY3MiwxODI2OTAxNjkxLDE3NzA2MDUwNDRdfQ==
 -->
