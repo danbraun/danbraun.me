@@ -45,9 +45,9 @@ Ingredients:
  - rice vinegar 2 tsp
  - lemon juice from 1/2 lemon
 
-Whisk or shake together dressing ingredients and mix in with chopped kale. These measurements are approximate and could all be 
+Whisk or shake together dressing ingredients and mix in with chopped kale. Mixing with your hands works best as the kale leaved need to be ruffed up a bit to improve their testu. These measurements are approximate and could all be adjusted to taste.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjQ0NTU2MCwtMTA2MjY4NTc1MiwyMD
+eyJoaXN0b3J5IjpbMTYxOTAzNTg2NywtMTA2MjY4NTc1MiwyMD
 A1NDg5NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
 -->
