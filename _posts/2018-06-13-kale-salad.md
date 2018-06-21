@@ -38,10 +38,12 @@ Ingredients:
  - olive oil 1tbsp
  - sesame oil 1 tbsp
  - ginger, raw 1 inch (diameter of your thumb)
- - garlic clove
+ - garlic 1 clove
+ - salt 1 tsp
+ - honey 1 tbsp or stevia 1tsp
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwMDU2MjY3LC0xMDYyNjg1NzUyLDIwMD
-U0ODk2NzIsMTgyNjkwMTY5MSwxNzcwNjA1MDQ0XX0=
+eyJoaXN0b3J5IjpbMTQ0NDExMTE3MiwtMTA2MjY4NTc1MiwyMD
+A1NDg5NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
 -->
