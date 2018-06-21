@@ -40,14 +40,14 @@ Ingredients:
  - ginger, raw 1 inch (diameter of your thumb)
  - garlic 1 clove
  - salt 1 tsp
- - honey 1 tbsp or stevia 1tsp
+ - honey 1 tbsp or stevia 1 tsp
  - soy sauce 1/8 cup
  - rice vinegar 2 tsp
  - lemon juice from 1/2 lemon
 
-Whisk or shake together dressing ingredients
+Whisk or shake together dressing ingredients and mix in with chopped kale. These measurements are approximate and could all be 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Mzk5OTQ2LC0xMDYyNjg1NzUyLDIwMD
-U0ODk2NzIsMTgyNjkwMTY5MSwxNzcwNjA1MDQ0XX0=
+eyJoaXN0b3J5IjpbMTc3NjQ0NTU2MCwtMTA2MjY4NTc1MiwyMD
+A1NDg5NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
 -->
