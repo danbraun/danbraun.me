@@ -34,7 +34,11 @@ I toast my sesame seeds on a stainless steel pan and get them golden and fragran
 
 Ingredients:
 
+ - About 100 grams of kale
+ - olive oil 1tbsp
+ - sesame oil
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDk5MjQyNiwtMTA2MjY4NTc1MiwyMD
-A1NDg5NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
+eyJoaXN0b3J5IjpbLTExNjMwNTQzNzQsLTEwNjI2ODU3NTIsMj
+AwNTQ4OTY3MiwxODI2OTAxNjkxLDE3NzA2MDUwNDRdfQ==
 -->
