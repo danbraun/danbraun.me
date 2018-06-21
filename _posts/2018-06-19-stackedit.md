@@ -16,14 +16,13 @@ Kale salad recipe
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250/v1528941809/Kale%20Salad/IMG_20180613_193215.jpg)  
   
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942155/Kale%20Salad/MVIMG_20180613_200123.jpg)  
-  
-![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250/v1528942087/Kale%20Salad/IMG_20180613_201350.jpg)  
+    
   
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_contrast,w_1250,z_1/v1528941980/Kale%20Salad/IMG_20180613_201621.jpg)  
   
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_contrast,w_1250/v1529002991/MVIMG_20180614_073013.jpg)
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_contrast,w_1250/v1529002991/MVIMG_20180614_073013.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjU1ODY0MSwxNTcxNDE5NzM4LC0xMD
-IxMDg2ODIyLC02MjY5MzAxMTNdfQ==
+eyJoaXN0b3J5IjpbMTU4NjEzMTExOSwxNDkyNTU4NjQxLDE1Nz
+E0MTk3MzgsLTEwMjEwODY4MjIsLTYyNjkzMDExM119
 -->
