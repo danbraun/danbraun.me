@@ -17,9 +17,11 @@ bgcolor: 35461F
 
 >![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250/v1528941809/Kale%20Salad/IMG_20180613_193215.jpg)  
   >Swiss chard on top
+  
  Chop up your presumably clean kale like this. You be flicking around less dressing and sesame seeds by eating smaller leaf pieces.
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942155/Kale%20Salad/MVIMG_20180613_200123.jpg)  
-    
+
+The garlic, ginger,
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521583/Kale%20Salad/IMG_20180619_211547.jpg)
 
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521584/Kale%20Salad/IMG_20180619_212143.jpg)
@@ -28,6 +30,6 @@ bgcolor: 35461F
 
 ![image](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521584/Kale%20Salad/IMG_20180619_213145.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTk4MTA2NiwtMTA2MjY4NTc1MiwyMD
-A1NDg5NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
+eyJoaXN0b3J5IjpbNDM2MDgwNTQxLC0xMDYyNjg1NzUyLDIwMD
+U0ODk2NzIsMTgyNjkwMTY5MSwxNzcwNjA1MDQ0XX0=
 -->
