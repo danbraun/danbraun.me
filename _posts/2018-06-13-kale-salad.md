@@ -36,9 +36,12 @@ Ingredients:
 
  - About 100 grams of kale
  - olive oil 1tbsp
- - sesame oil
+ - sesame oil 1 tbsp
+ - ginger, raw 1 inch (diameter of your thumb)
+ - garlic clove
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMwNTQzNzQsLTEwNjI2ODU3NTIsMj
-AwNTQ4OTY3MiwxODI2OTAxNjkxLDE3NzA2MDUwNDRdfQ==
+eyJoaXN0b3J5IjpbNTEwMDU2MjY3LC0xMDYyNjg1NzUyLDIwMD
+U0ODk2NzIsMTgyNjkwMTY5MSwxNzcwNjA1MDQ0XX0=
 -->
