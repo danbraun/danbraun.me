@@ -43,10 +43,11 @@ Ingredients:
  - honey 1 tbsp or stevia 1tsp
  - soy sauce 1/8 cup
  - rice vinegar 2 tsp
- - lemon juice fr
- - 
+ - lemon juice from 1/2 lemon
+
+Whisk or shake together dressing ingredients
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMxNDE5MDQsLTEwNjI2ODU3NTIsMj
-AwNTQ4OTY3MiwxODI2OTAxNjkxLDE3NzA2MDUwNDRdfQ==
+eyJoaXN0b3J5IjpbMTg4Mzk5OTQ2LC0xMDYyNjg1NzUyLDIwMD
+U0ODk2NzIsMTgyNjkwMTY5MSwxNzcwNjA1MDQ0XX0=
 -->
