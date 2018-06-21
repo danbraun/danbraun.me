@@ -37,7 +37,7 @@ exclude:
 incremental:      true
 
 # Serving
-url:            "https://danbraun.github.io/danbraun.me"
+url:            ""
 baseurl:        "" # does not include hostname
 
 # Outputting

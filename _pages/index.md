@@ -1,9 +1,8 @@
 ---
 permalink: /
 layout: index
-header_image: v1528856184/IMG_1006.jpg
-header_caption: ""
-bgcolor: 4D5420
+header_image: v1529120005/20180104_150708.jpg
+bgcolor: 0e0e0e
 
 ---
 
