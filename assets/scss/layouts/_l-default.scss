@@ -119,3 +119,26 @@ footer {
 .title-bar-title {
   text-transform: uppercase;
 }
+/*
+==============================================
+floating
+==============================================
+*/
+
+.floating{
+  animation-name: floating;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes floating {
+  0% {
+    transform: translate(-50%,0%);
+  }
+  50% {
+    transform: translate(-50%,30%);
+  }
+  100% {
+    transform: translate(-50%,0%);
+  }
+}
