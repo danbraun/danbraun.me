@@ -5,8 +5,7 @@ categories: recipe
 date: 2018-06-13 00:00:00 +0000  
 header_image: v1528941982/Kale%20Salad/IMG_20180613_195739.jpg  
 bgcolor: 35461F  
----  
-## Kale salad recipe  
+---    
  I'm growing a few varieties of kale but mostly curly and lacinato.
 
 >![garden kale and chickens](http://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942079/Kale%20Salad/IMG_20180613_192758.jpg)
@@ -53,7 +52,7 @@ This salad keeps well in the fridge and improves overnight.
 The dressing ingredients are interchangeable and approximate. Adjust to taste. The main idea is to mix some sweetness with acidy salty-ness on top of the sesame flavor.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMzc3ODAyLDkwNDgzNzAxMywtMTIxOD
-kyOTYzOSwtMTA2MjY4NTc1MiwyMDA1NDg5NjcyLDE4MjY5MDE2
-OTEsMTc3MDYwNTA0NF19
+eyJoaXN0b3J5IjpbLTEzMjgwMDI5ODIsNDcyMzc3ODAyLDkwND
+gzNzAxMywtMTIxODkyOTYzOSwtMTA2MjY4NTc1MiwyMDA1NDg5
+NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
 -->
