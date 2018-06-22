@@ -33,7 +33,7 @@ I toast my sesame seeds on a stainless steel pan and get them golden and fragran
 
 Ingredients:
 
- - About 100 grams of kale
+ - About 100 grams (3.5 oz) of kale
  - olive oil 1 tbsp
  - sesame oil 1 tbsp
  - ginger, raw 1 inch, grated (diameter of your thumb)
@@ -52,7 +52,8 @@ This salad keeps well in the fridge and improves overnight.
 The dressing ingredients are interchangeable and approximate. Adjust to taste. The main idea is to mix some sweetness with acidy salty-ness on top of the sesame flavor.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgwMDI5ODIsNDcyMzc3ODAyLDkwND
-gzNzAxMywtMTIxODkyOTYzOSwtMTA2MjY4NTc1MiwyMDA1NDg5
-NjcyLDE4MjY5MDE2OTEsMTc3MDYwNTA0NF19
+eyJoaXN0b3J5IjpbLTI1OTEwNjAxMCwtMTMyODAwMjk4Miw0Nz
+IzNzc4MDIsOTA0ODM3MDEzLC0xMjE4OTI5NjM5LC0xMDYyNjg1
+NzUyLDIwMDU0ODk2NzIsMTgyNjkwMTY5MSwxNzcwNjA1MDQ0XX
+0=
 -->
