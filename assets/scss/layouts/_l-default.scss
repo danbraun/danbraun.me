@@ -66,6 +66,7 @@ footer {
   justify-content: center;
   flex-direction: column;
   position: relative;
+  padding-top: 2rem;
   @include breakpoint(medium) {
     height:100vh;
   }
