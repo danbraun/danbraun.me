@@ -49,30 +49,25 @@ footer {
 .content {
   padding: 2rem;
 }
-.top-bar {
-  color: $white;
-  justify-content: center;
-  //height: 100%;
-}
+
 .heading, .heading-date, .heading-caption {
   color: $white;
 }
 .menu-and-heading {
   color: $white;
-
-  //background-color: rgb(51, 21, 79);
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   position: relative;
   padding-top: 2rem;
+  height:50vh;
   @include breakpoint(medium) {
     height:100vh;
   }
 }
 .menu-and-heading a {
-  color: $black;
+  //color: $black;
   text-transform: uppercase;
 }
 .menu-and-heading a:hover {
