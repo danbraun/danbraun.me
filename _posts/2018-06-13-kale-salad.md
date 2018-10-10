@@ -52,8 +52,8 @@ This salad keeps well in the fridge and improves overnight.
 The dressing ingredients are interchangeable and approximate. Adjust to taste. The main idea is to mix some sweetness with acidy salty-ness on top of the sesame flavor.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTEwNjAxMCwtMTMyODAwMjk4Miw0Nz
-IzNzc4MDIsOTA0ODM3MDEzLC0xMjE4OTI5NjM5LC0xMDYyNjg1
-NzUyLDIwMDU0ODk2NzIsMTgyNjkwMTY5MSwxNzcwNjA1MDQ0XX
-0=
+eyJoaXN0b3J5IjpbODIwMzgyOTk1LC0yNTkxMDYwMTAsLTEzMj
+gwMDI5ODIsNDcyMzc3ODAyLDkwNDgzNzAxMywtMTIxODkyOTYz
+OSwtMTA2MjY4NTc1MiwyMDA1NDg5NjcyLDE4MjY5MDE2OTEsMT
+c3MDYwNTA0NF19
 -->
