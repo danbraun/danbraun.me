@@ -38,7 +38,7 @@ incremental:      true
 
 # Serving
 url:            "https://danbraun.github.io/danbraun.me"
-baseurl:        "danbraun.me" # does not include hostname
+baseurl:        "/danbraun.me" # does not include hostname
 
 # Outputting
 permalink:        "/blog/:year/:title/"
