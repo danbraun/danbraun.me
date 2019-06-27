@@ -37,8 +37,8 @@ exclude:
 incremental:      true
 
 # Serving
-url:            "https://danbraun.github.io/danbraun.me"
-baseurl:        "/danbraun.me" # does not include hostname
+url:            "https://gracious-mclean-7b4215.netlify.com"
+baseurl:        "" # does not include hostname
 
 # Outputting
 permalink:        pretty
