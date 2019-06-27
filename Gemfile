@@ -12,5 +12,6 @@ group :jekyll_plugins do
 	gem 'sass'
 	gem 'jekyll-sitemap'
 	gem 'jekyll-paginate'
-	gem "github-pages"
+	gem 'github-pages'
+	gem 'jekyll-archives'
 end

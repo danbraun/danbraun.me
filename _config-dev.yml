@@ -41,7 +41,7 @@ url:            "http://127.0.0.1.xip.io:3000"
 baseurl:        "" # does not include hostname
 
 # Outputting
-permalink:        "/blog/:year/:title/"
+permalink:        pretty
 paginate_path:    "/blog/page:num"
 paginate:         5
 
@@ -50,3 +50,17 @@ compress_html:
     envs: [development]
 
 highlighter:      rouge
+
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+
+jekyll-archives:
+  enabled: all
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'

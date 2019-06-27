@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: Kale Salad  
-categories: recipe  
+categories: [recipies]
 date: 2018-06-13 00:00:00 +0000  
 header_image: v1528941982/Kale%20Salad/IMG_20180613_195739.jpg  
 bgcolor: 35461F  
