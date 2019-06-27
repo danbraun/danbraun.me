@@ -61,7 +61,8 @@ footer {
   flex-direction: column;
   position: relative;
   padding-top: 2rem;
-  height:50vh;
+  height:50vh; // fallback
+  height: calc(var(--vh, 1vh) * 50);
   @include breakpoint(medium) {
     height:100vh;
   }
@@ -92,7 +93,8 @@ footer {
   padding: 1rem;
 }
 .heading-image {
-  height:50vh;
+  height:50vh; // fallback
+  height: calc(var(--vh, 1vh) * 50);
   width: 100vw;
   object-fit: cover;
   @include breakpoint(medium) {

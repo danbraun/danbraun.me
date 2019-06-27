@@ -37,8 +37,8 @@ exclude:
 incremental:      true
 
 # Serving
-url:            "https://danbraun.github.io/danbraun.me"
-baseurl:        "/danbraun.me" # does not include hostname
+url:            "http://127.0.0.1.xip.io:3000"
+baseurl:        "" # does not include hostname
 
 # Outputting
 permalink:        pretty

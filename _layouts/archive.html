@@ -1,0 +1,12 @@
+---
+layout: page
+---
+<h2>
+  Posts in {{ page.title }}
+</h2>
+
+{% for post in page.posts %} 
+
+      {% include post_preview.html %} 
+
+{% endfor %}
