@@ -12,6 +12,6 @@ group :jekyll_plugins do
 	gem 'sass'
 	gem 'jekyll-sitemap'
 	gem 'jekyll-paginate'
-	gem 'github-pages'
 	gem 'jekyll-archives'
+	gem 'jemoji', "~> 0.10.2"
 end

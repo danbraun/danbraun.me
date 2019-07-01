@@ -54,6 +54,7 @@ highlighter:      rouge
 plugins:
   - jekyll-archives
   - jekyll-paginate
+  - jemoji
 
 jekyll-archives:
   enabled: all
