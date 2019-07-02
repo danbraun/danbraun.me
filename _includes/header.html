@@ -1,9 +1,11 @@
 {% include head.html %}
 
 {% if page.header_image != nil %}
-{% assign image = page.header_image %}
+    {% assign image = page.header_image %}
+{% elsif page.type == 'category' %}
+    {% assign image = site.category-images[page.title] %}
 {% else %}
-{% assign image = site.default_hero_image %}
+    {% assign image = site.default_hero_image %}
 {% endif %}
 
 <header class="grid-container full">

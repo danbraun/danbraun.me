@@ -6,4 +6,5 @@ bgcolor: 0e0e0e
 title: Home
 ---
 
-You've reached the personal website of Daniel Braun. Content appropriate to share will be deposited here.
+You've reached the personal website of Daniel Braun. He lives in Wisconsin.
+Content appropriate to share will be deposited here.
