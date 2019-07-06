@@ -9,7 +9,7 @@ Looking around [online](https://www.bikeacentury.com/wisconsin/){:target="_blank
 
 This was not a race but a ride, with many rest stops and lots of food. To take advantage of all the amenities on offer, it was recommended to start at around 8 in the morning. The ride was in Bayfield County, which is about 5 hours north of my home. I decided to start my journey to this event the day before, on Friday, adding some stops and a camping night along the way.
 
-![image](https://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1071/v1561995492/Superior%20Vistas/00000PORTRAIT_00000_BURST20190621180042942.jpg)
+{% cloudinary /brauntrutta/image/upload/v1561995492/Superior%20Vistas/00000PORTRAIT_00000_BURST20190621180042942.jpg alt="Daniel Braun smiling in front of tent" class="full-image" %}
 
 Being into yoga, I found along the way a yoga studio called [The Yoga Room](http://www.theyogaroomec.com/){:target="_blank"} in Eau Clare. That Friday also happened to be summer solstice, the longest day of the year. This is also a big day for us yogis. That being the case, there was a special class I could drop into on Friday at The Yoga Room.
 

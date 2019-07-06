@@ -12,4 +12,5 @@ group :jekyll_plugins do
 	gem 'jekyll-paginate'
 	gem 'jekyll-archives'
 	gem 'jemoji', "~> 0.10.2"
+	gem 'jekyll-cloudinary'
 end
