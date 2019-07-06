@@ -70,3 +70,16 @@ category-images:
   running: 'c_scale,h_2000/v1562075471/shoes.jpg'
   cycling: 'v1561995508/Superior%20Vistas/IMG_20190622_124227.jpg'
   recipes: 'c_scale,w_2000/v1529521584/Kale%20Salad/IMG_20180619_213145.jpg'
+
+cloudinary:
+  cloud_name: brauntrutta
+  only_prod: false
+  verbose: true
+  origin_url: https://res.cloudinary.com
+  presets:
+    default:
+      min_width: 320
+      max_width: 1200
+      fallback_max_width: 800
+      steps: 5
+      sizes: "(max-width: 450px) 160px, 90vw"
