@@ -23,7 +23,7 @@ After setting up, I drove into town to find dinner which ended up being at a sma
 
 But that wasn't enough for me this evening. A place called Kraven Frozen Yogurt lay waiting just down the block. Surely I needed more fuel for tomorrow's big ride?
 
-![waterfront trail maslowski beach pistachio frozen yogurt](https://res.cloudinary.com/brauntrutta/image/upload/v1562077750/Superior%20Vistas/yogurt_and_walk.jpg)
+{% cloudinary /brauntrutta/image/upload/v1562077750/Superior%20Vistas/yogurt_and_walk.jpg alt="waterfront trail maslowski beach pistachio frozen yogurt" class="full-image" %}
 
 With some daylight and frozen pistachio yogurt to burn, I walked Ashland's beautiful Waterfront Trail from Maslowski Beach to Ashland Marina, returning to the park as the sun went down.
 
@@ -35,6 +35,6 @@ In any case, the ride started out under surprisingly pleasant weather conditions
 
 What luck. Except the whump, whump, whump I started noticing from my back tire. Maybe was just the road? Lots of freezing and thawing up in da nort woods after all. Later, about half way though the ride when I finally allowed myself to look during a rest stop, I noticed that a 5-6 inch area of my rear tire was stuck into the rim further than the rest of the tire. This is apparently a common problem when seating a tire. I would later fix it myself, but for the duration of my 5 hour ride, I would endure what seemed like riding on a dented rim. Oh well. I tried to think of it as a gentle massage to my perineum.
 
-![image](https://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1071/v1562012674/Superior%20Vistas/COLLAGE.jpg)
+{% cloudinary /brauntrutta/image/upload/v1562012674/Superior%20Vistas/COLLAGE.jpg alt="bayfield county roads" class="full-image" %}
 
 Whether or not you just Googled "perineum", the ride was mostly pleasant and finished feeling better than I'd expected! So now I have a 70 miler and my first organized cycling event in the bag. The summer is still young. Could I get a century accomplished yet this year?
