@@ -4,14 +4,13 @@ title: 2019 Trail Assail 10K
 sub_title: 10k Trail Race Waukesha, WI
 categories: [running]
 date: 2019-06-29 00:00:00 +0000
-header_image: /c_scale,h_1599,w_1200/v1561844219/Screen_Shot_2019-06-29_at_4.34.52_PM.png
+header_image: v1561844219/Screen_Shot_2019-06-29_at_4.34.52_PM.png
 bgcolor: 262626
 ---
 
 Race time: 57:14
 
 This was my first really HOT temperature race. My first trail race too. I ended up finishing 23rd out of 85 and 6th in my age division (40-44). Though it didn't get into the 80s until the race was complete, the humidity was there.
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2489915145/embed/1df3c2269280a4a076a37657a9eb4d1f90ce2b68'></iframe>
 
 Headed out from my place to pick up Coach Mom at about 5:00 AM. Race start time was at 8 and about 2 hours away. Usually a decaf drinker, my mom provided ample conversation after sharing my eye twitchingly dense pour over with her. 
 
@@ -34,3 +33,5 @@ In previous races, I'd pass the water stations. This time I stopped at 3. With t
 I ended at a strong pace. Having just ran the same path, I knew when it was almost over.
 
 After crossing the finish line, I clumsily tried stopping my Strava with sweaty hands. Within a few minutes the exhaustion lifted as quickly as the morning fog and I scarfed down post race treats feeling exhilarated!
+
+<iframe height='500px' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2489915145/embed/1df3c2269280a4a076a37657a9eb4d1f90ce2b68'></iframe>
