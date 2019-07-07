@@ -83,3 +83,5 @@ cloudinary:
       fallback_max_width: 800
       steps: 5
       sizes: "(max-width: 450px) 160px, 90vw"
+      attributes:
+        loading: lazy

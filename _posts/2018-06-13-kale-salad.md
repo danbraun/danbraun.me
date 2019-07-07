@@ -8,28 +8,28 @@ bgcolor: 35461F
 ---    
  I'm growing a few varieties of kale but mostly curly and lacinato.
 
->![garden kale and chickens](https://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942079/Kale%20Salad/IMG_20180613_192758.jpg)
+>{% cloudinary /brauntrutta/image/upload/v1528942079/Kale%20Salad/IMG_20180613_192758.jpg alt="garden kale and chickens" class="full-image" %}
 >Lacinato in the foreground with 2 rows of curly kale behind them. The chickens enjoy a patch of dead lawn in the background.
  
->![image](https://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250,z_1.6/v1528941917/Kale%20Salad/IMG_20180613_192814.jpg)  
+>{% cloudinary /brauntrutta/image/upload/v1528941917/Kale%20Salad/IMG_20180613_192814.jpg alt="Red Russian kale" class="full-image" %} 
 >Red Russian kale
 
->![image](https://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_saturation,w_1250/v1528941809/Kale%20Salad/IMG_20180613_193215.jpg)  
-  >Swiss chard on top
+>{% cloudinary /brauntrutta/image/upload/v1528941809/Kale%20Salad/IMG_20180613_193215.jpg alt="Swiss chard" class="full-image" %}
+>Swiss chard on top
   
  Chop up your presumably clean kale like this. You'll be flicking around less dressing and sesame seeds by eating smaller leaf pieces.
-![image](https://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1250/v1528942155/Kale%20Salad/MVIMG_20180613_200123.jpg)  
+{% cloudinary /brauntrutta/image/upload/v1528942155/Kale%20Salad/MVIMG_20180613_200123.jpg alt="kale" class="full-image" %}
 
 The garlic, ginger, oil and everything else mixes easily in a small mason jar.
-![image](https://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521583/Kale%20Salad/IMG_20180619_211547.jpg)
+{% cloudinary /brauntrutta/image/upload/v1529521583/Kale%20Salad/IMG_20180619_211547.jpg alt="ginger garlic dressing" class="full-image" %}
 
 Mix using your hands. Like a man. You need to smoosh around the leaves to tenderize them a bit.
-![image](https://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521584/Kale%20Salad/IMG_20180619_212143.jpg)
+{% cloudinary /brauntrutta/image/upload/v1529521584/Kale%20Salad/IMG_20180619_212143.jpg alt="mixing salad" class="full-image" %}
 
 I toast my sesame seeds on a stainless steel pan and get them golden and fragrant.
-![image](https://res.cloudinary.com/brauntrutta/image/upload/c_scale,e_auto_brightness,w_1200/v1529543829/Kale%20Salad/MVIMG_20180614_073013.jpg)
+{% cloudinary /brauntrutta/image/upload/v1529543829/Kale%20Salad/MVIMG_20180614_073013.jpg alt="sesame seeds roasting on pan" class="full-image" %}
 
-![image](https://res.cloudinary.com/brauntrutta/image/upload/c_scale,w_1200/v1529521584/Kale%20Salad/IMG_20180619_213145.jpg)
+{% cloudinary /brauntrutta/image/upload/v1529521584/Kale%20Salad/IMG_20180619_213145.jpg alt="kale salad" class="full-image" %}
 
 Ingredients:
 
@@ -50,10 +50,3 @@ Whisk or shake together dressing ingredients and mix in with chopped kale. Mixin
 This salad keeps well in the fridge and improves overnight.
 
 The dressing ingredients are interchangeable and approximate. Adjust to taste. The main idea is to mix some sweetness with acidy salty-ness on top of the sesame flavor.
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMzgyOTk1LC0yNTkxMDYwMTAsLTEzMj
-gwMDI5ODIsNDcyMzc3ODAyLDkwNDgzNzAxMywtMTIxODkyOTYz
-OSwtMTA2MjY4NTc1MiwyMDA1NDg5NjcyLDE4MjY5MDE2OTEsMT
-c3MDYwNTA0NF19
--->
