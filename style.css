@@ -90,6 +90,9 @@ header {
   display:grid;
   justify-content: center;
   align-items: center;
+  background-image: url('images/itsme.jpg');
+  background-position: center;
+  background-size: cover;
 }
 h1 {
   font-size: 3em;
