@@ -1,0 +1,19 @@
+@use './util';
+@use './styles';
+
+header {
+  height: 100vh;
+  background: black;
+  color: gainsboro;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/images/itsme.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 3em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
