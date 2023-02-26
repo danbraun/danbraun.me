@@ -5,8 +5,8 @@
   "scripts": {
     "start": "run-p watch:js watch:css copy:files bs",
     "bs": "browser-sync 'public' -w",
-    "copy:files": "copy-and-watch --watch src/*.html src/**/images/* public/",
-    "build:files": "copy-and-watch src/*.html src/**/images/* public/",
+    "copy:files": "copy-and-watch --watch src/*.html src/**/images/* src/**/fonts/* public/",
+    "build:files": "copy-and-watch src/*.html src/**/images/* src/**/fonts/* public/",
     "watch:js": "esbuild src/js/index.js --bundle --outdir=public/js --watch --target=chrome58,firefox57,safari11,edge16",
     "build:js": "esbuild src/js/index.js --bundle --minify --outdir=public/js --target=chrome58,firefox57,safari11,edge16",
     "watch:css": "sass --watch src/scss:public/styles",
