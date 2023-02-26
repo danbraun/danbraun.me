@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "run-p watch:js watch:css copy:files bs",
+    "bs": "browser-sync 'public' -w",
+    "copy:files": "copy-and-watch --watch src/*.html src/**/images/* src/**/fonts/* public/",
+    "build:files": "copy-and-watch src/*.html src/**/images/* src/**/fonts/* public/",
+    "watch:js": "esbuild src/js/index.js --bundle --outdir=public/js --watch --target=chrome58,firefox57,safari11,edge16",
+    "build:js": "esbuild src/js/index.js --bundle --minify --outdir=public/js --target=chrome58,firefox57,safari11,edge16",
+    "watch:css": "sass --watch src/scss:public/styles",
+    "build:css": "sass src/scss:public/styles --no-source-map",
+    "clean": "rm -rf public",
+    "build": "run-p build:files build:js build:css"
   },
   "repository": {
     "type": "git",
@@ -15,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/danbraun/danbraun.me/issues"
   },
-  "homepage": "https://github.com/danbraun/danbraun.me#readme"
+  "homepage": "https://github.com/danbraun/danbraun.me#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "copy-and-watch": "^0.1.6",
+    "esbuild": "^0.17.10",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.58.3"
+  }
 }
