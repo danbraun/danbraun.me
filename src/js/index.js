@@ -1,2 +1,3 @@
-import {removePreloader} from './animation'
+import {removePreloader, animateBG} from './animation'
 removePreloader();
+animateBG();
